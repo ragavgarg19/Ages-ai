@@ -1,0 +1,6 @@
+{
+  "name": "Aegis AI",
+  "description": "Scan comments to differentiate between harmless situational sarcasm and actual toxic behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
